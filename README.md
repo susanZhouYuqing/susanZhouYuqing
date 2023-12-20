@@ -1,7 +1,6 @@
-- Check out my new projects with sjesse1001: https://github.com/sjesse1001/physicshack23 and https://github.com/susanZhouYuqing/dell_mini_hack_23 !
-- Hi, I'm Yuqing Zhou. You can also call me Susan. I am working towards a BSc in Computer Science at McGill University, and my expected graduation time is 2026. 
-- I’m interested in data science, web development, and computer science in general! I have been programming in python and java for more than 2 years. I have some knowledge of SQL and databases as well. 
-- I’m currently enrolled in Udemy's "Python for Data Science and Machine Learning Bootcamp" on top of my several Computer Science and Mathematics classes at McGill University. I am also learning HTML, CSS, and JavaScript by myself! 
+- Hi, I'm Yuqing Zhou. You can also call me Susan. I am working towards a BSc in Computer Science at McGill University, and my expected graduation time is 2026.
+- I'm currently working on a RPG game with JavaScript! I would put my progress on GitHub by the end of this month. 
+- I’m interested in data science, web development, and computer science in general. I have been programming in python and java for more than 2 years, and I'm fairly familiar with the most common python data science libraries such as numpy, pandas, matplotlib, etc. I also code in javascript, and I know html and css fairly well. I have some knowledge of SQL and databases too. 
 - At this moment, my main goal is to land my first intership next summer, but I am open to anything, so don't hesitate to contact me! 
 - My email address: zhouyuqing2023@outlook.com
 
